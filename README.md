@@ -1,4 +1,4 @@
-# Quasar App (medcintest)
+# Quasar App (medicinetest)
 
 A Quasar Framework app
 
@@ -24,3 +24,4 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
